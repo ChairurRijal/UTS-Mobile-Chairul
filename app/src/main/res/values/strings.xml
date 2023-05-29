@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UTS - Nike Shoes Review</string>
+    <string name="novel_name">Nama sepatu</string>
+    <string name="novel_date">Tanggal Penjualan</string>
+    <string name="novel_author">Merk</string>
+    <string name="rating">Rating</string>
+    <string name="description">Deksripsi</string>
+</resources>
